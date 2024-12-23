@@ -1,2 +1,2 @@
-# my_BlockChain_studys
-this repo is for my block chain studys  
+# my_Web3_studys
+This repo is for my Web3 studys  
